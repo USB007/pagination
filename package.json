@@ -1,0 +1,26 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USB007/pagination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/USB007/pagination/issues"
+  },
+  "homepage": "https://github.com/USB007/pagination#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^6.0.10",
+    "nodemon": "^2.0.13"
+  }
+}
