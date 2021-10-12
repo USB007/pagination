@@ -28,6 +28,7 @@ app.get('/users', paginatedResults(User), (req, res) => {
   res.json(res.paginatedResults)
 })
 
+
 function paginatedResults(model) {
   return async (req, res, next) => {
     const page = parseInt(req.query.page)

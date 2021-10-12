@@ -27,12 +27,12 @@ const users=[
     {id: 23, name:'user23'},
     {id: 24, name:'user24'},
     {id: 25, name:'user25'},
+    {id: 25, name:'user26'}
 ]
 
 app.get('/users',(req, res) => {
     const page = req.query.page
     const limit=req.query.limit
-
     const startIndex = (page -1) * limit
     const endIndex = page * limit
     
