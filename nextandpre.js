@@ -40,7 +40,7 @@ app.get('/users',(req, res) => {
 
     if (endIndex < users.length) { 
     results.next = {
-        page: page + 1,
+        page: page + 1,  
         limit: limit
     }      
 }
