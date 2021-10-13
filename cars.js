@@ -1,85 +1,112 @@
 module.exports = [{
     "model_name": "021 C",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "12 M",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "17",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "17M",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "2000",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "24.7",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "427",
     "model_make_id": "ford"
-}, {
+},
+{
     "model_name": "49",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Aerostar",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "Anglia",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Artic",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "Aspire",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Bantam",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Bronco",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Bronco II",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "C 100",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "C-MAX",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "C-Max Energi",
     "model_make_id": "Ford"
-}, {
+},
+ {
     "model_name": "C-Max Hybrid",
     "model_make_id": "Ford"
-}, {
+},
+ {
     "model_name": "Capri",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Coin",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "Consul",
     "model_make_id": "ford"
-}, {
+},
+{
     "model_name": "Contour",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "Corsair",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Cortina",
     "model_make_id": "ford"
-}, {
+},
+ {
     "model_name": "Cougar",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Courier",
     "model_make_id": "ford"
-}, {
+}, 
+{
     "model_name": "Crestline",
     "model_make_id": "ford"
 }, {
